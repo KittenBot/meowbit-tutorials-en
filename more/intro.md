@@ -18,7 +18,8 @@ edge connector
 * Operating voltage: 3.3V
 * Supply voltage：USB(5V), Lithium battery pack(3.7~4.2V)
 * Output current: 500mA(max)
-* Dimensions: 52x76x12(mm)
+* Dimensions: 52x76x12(mm)  
+
 ## Resources  
 
 ![图片](https://s2.ax1x.com/2019/01/26/knUhPx.png)![图片](https://s2.ax1x.com/2019/01/26/knU4G6.png)  
@@ -53,8 +54,8 @@ or
 <!-- If you want to change the language ↓  ![图片](https://s2.ax1x.com/2019/01/30/kluyRg.png)
 * micropython programming mode   -->
 
-## tutorial
-We have tutorials for Meowbit, but they are not perfect. Currently not translated into English ,sorry [http://meowbit-doc.kittenbot.cn/#/](http://meowbit-doc.kittenbot.cn/#/)  
+<!-- ## tutorial
+We have tutorials for Meowbit, but they are not perfect. Currently not translated into English ,sorry [http://meowbit-doc.kittenbot.cn/#/](http://meowbit-doc.kittenbot.cn/#/)   -->
 
 ## supported system
 * Windows
