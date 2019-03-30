@@ -1,19 +1,11 @@
 # What is Meowbit?  
 
-Meowbit is a card-sized graphical retro game computer with allows you coding with Makecode arcade and Python. In other words, it can use combines game programming with hardware devices. All of this can be programmed using our familiar makecode and micropyhon.
-Meowbit is a card-sized grahical programming game console designed for teenagers. It contains 1.8' full-color screen, 6 programmable buttons and buzzer.
+Meowbit is a card-sized graphical retro game computer with allows you coding with Makecode arcade and Python. In other words, it can use combines game programming with hardware devices. 
 
-It allows  you to create retro games on Microsoft makecode arcade palfform, and encourage you from graphical programming to text programming, such as Python.
+Meowbit is a card-sized grahical programming video game console designed for teenagers. It contains 1.8' full-color screen, 6 x programmable buttons ,1 x buzzer, built-in light sensor , temperatur sensor, SD card slot (For extenal stoage),multyplayer connector and edge connector. Espcially the edge connector could access most micro:bit expension boards. We recommend to use Robot:bit for Mewobit, it can help you create a robot quickly.  
 
-SD card slot for extenal stoage
-mutiplayer connector
+## Parameters  
 
-graphical programming retro game console
-edge connector
-
-
-
-## Parameters 
 * MCU：STM32F401RET6, 32-bit ARM Cortex M4 core
 * Operating voltage: 3.3V
 * Supply voltage：USB(5V), Lithium battery pack(3.7~4.2V)
@@ -22,14 +14,15 @@ edge connector
 
 ## Resources  
 
-![图片](https://s2.ax1x.com/2019/01/26/knUhPx.png)![图片](https://s2.ax1x.com/2019/01/26/knU4G6.png)  
+![pic](https://s2.ax1x.com/2019/01/26/knUhPx.png)  
+![pic](https://s2.ax1x.com/2019/01/26/knU4G6.png)  
 
 1. Charging/work indicator
 2. Light sensor
 3. Power switch
 4. Programmable led x 2
 5. Reset
-6. DFU mode button(use for toggle firmware or for Bring up the menu in makecode mode)
+6. DFU mode button(use for toggle firmware or for Bring up the menu in Makecode Arcade mode)
 7. 160 x 128 TFT color screen
 8. Temperature sensor
 9. Direction button x 4
@@ -46,18 +39,23 @@ edge connector
 20. Signature area  
 
 ## Programming mode
-Makecode graphical programming mode  
-* [https://arcade.makecode.com/](https://arcade.makecode.com/)  
-or  
-* [http://meowbit.kittenbot.cn](http://meowbit.kittenbot.cn/)  
 
-<!-- If you want to change the language ↓  ![图片](https://s2.ax1x.com/2019/01/30/kluyRg.png)
-* micropython programming mode   -->
+Makecode Arcade graphical programming mode
 
-<!-- ## tutorial
-We have tutorials for Meowbit, but they are not perfect. Currently not translated into English ,sorry [http://meowbit-doc.kittenbot.cn/#/](http://meowbit-doc.kittenbot.cn/#/)   -->
+* Arcade: [https://arcade.makecode.com/](https://arcade.makecode.com/)
 
-## supported system
-* Windows
-* macOS
+* micropython programming mode
+
+## Available
+
+* Windows 7 and above
+* macOS  
+
+## Show
+
+![pic](https://s2.ax1x.com/2019/03/30/ABfnI0.png)  
+
+![pic](https://s2.ax1x.com/2019/03/30/ABf0zD.jpg)  
+
+![pic](https://s2.ax1x.com/2019/03/30/ABfHwn.jpg)
 
