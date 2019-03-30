@@ -1,4 +1,5 @@
-# What is Meowbit?
+# What is Meowbit?  
+
 Meowbit is a card-sized graphical retro game computer with allows you coding with Makecode arcade and Python. In other words, it can use combines game programming with hardware devices. All of this can be programmed using our familiar makecode and micropyhon.
 Meowbit is a card-sized grahical programming game console designed for teenagers. It contains 1.8' full-color screen, 6 programmable buttons and buzzer.
 
@@ -12,14 +13,16 @@ edge connector
 
 
 
-## Parameters
+## Parameters 
 * MCU：STM32F401RET6, 32-bit ARM Cortex M4 core
 * Operating voltage: 3.3V
 * Supply voltage：USB(5V), Lithium battery pack(3.7~4.2V)
 * Output current: 500mA(max)
 * Dimensions: 52x76x12(mm)
-## Resources
-![图片](https://s2.ax1x.com/2019/01/26/knUhPx.png)![图片](https://s2.ax1x.com/2019/01/26/knU4G6.png)
+## Resources  
+
+![图片](https://s2.ax1x.com/2019/01/26/knUhPx.png)![图片](https://s2.ax1x.com/2019/01/26/knU4G6.png)  
+
 1. Charging/work indicator
 2. Light sensor
 3. Power switch
@@ -39,18 +42,20 @@ edge connector
 17. 3.7V lithium battery package interface
 18. MCU
 19. 2MByte spi-flash (default download unicode character table)
-20. Signature area
+20. Signature area  
+
 ## Programming mode
-Makecode graphical programming mode
-*  [http://meowbit.kittenbot.cn](http://meowbit.kittenbot.cn/)
+Makecode graphical programming mode  
+* [https://arcade.makecode.com/](https://arcade.makecode.com/)  
+or  
+* [http://meowbit.kittenbot.cn](http://meowbit.kittenbot.cn/)  
 
-or
-* [https://arcade.makecode.com/](https://arcade.makecode.com/)
+<!-- If you want to change the language ↓  ![图片](https://s2.ax1x.com/2019/01/30/kluyRg.png)
+* micropython programming mode   -->
 
-If you want to change the language ↓  ![图片](https://s2.ax1x.com/2019/01/30/kluyRg.png)
-* micropython programming mode
 ## tutorial
-We have tutorials for Meowbit, but they are not perfect. Currently not translated into English ,sorry [http://meowbit-doc.kittenbot.cn/#/](http://meowbit-doc.kittenbot.cn/#/)
+We have tutorials for Meowbit, but they are not perfect. Currently not translated into English ,sorry [http://meowbit-doc.kittenbot.cn/#/](http://meowbit-doc.kittenbot.cn/#/)  
+
 ## supported system
 * Windows
 * macOS
